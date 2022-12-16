@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-0;276;0c
-
-
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
