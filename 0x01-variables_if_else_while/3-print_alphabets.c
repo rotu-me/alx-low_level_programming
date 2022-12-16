@@ -7,10 +7,10 @@
 
 int main(void)
 {
-char lower_case = [[a..z]];
-char upper_case = [[A..Z]];
-putchar(lower_case);
-putchar(upper_case);
+for (i='a'; i <= 'z'; i++) 
+putchar(i);
+for (i='A'; i <= 'Z'; i++)
+putchar(i);
 putchar('\n');
 return (0);
 }
