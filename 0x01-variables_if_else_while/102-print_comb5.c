@@ -20,7 +20,7 @@ putchar(a % 10 + '0');
 putchar(' ');
 putchar(b / 10 + '0');
 putchar(b % 10 + '0');
-if( i * 100 + j != 9899)
+if( a * 100 + b != 9899)
 {
 putchar(',');
 putchar(' ');
