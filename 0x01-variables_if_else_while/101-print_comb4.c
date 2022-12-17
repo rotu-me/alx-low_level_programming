@@ -16,6 +16,8 @@ for (b = a + 1; b <= 9; b++)
 {
 for (c = b + 1; c <= 9; c++)
 {
+if (a == 7 && b == 8 && c == 9)
+break;
 putchar(a + '0');
 putchar(b + '0');
 putchar(c + '0');
