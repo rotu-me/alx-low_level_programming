@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - It concatenates two characters
+ * _strcat - It concatenates two characters
  * @dest: a character
  * @src: the seccond character
  *
@@ -12,12 +12,13 @@ char *_strcat(char *dest, char *src)
 {
 int i;
 int j;
-for (i = 0, dest[i] != '\0', i++);
+for (i = 0, dest[i] != '\0', i++)
+;
 for (j = 0, src[j] != '\0', j++)
 {
 src[j] = dest[i];
 i++;
 }
 dest[i] = '\0';
-return (dest)
+return (dest);
 }
