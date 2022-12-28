@@ -4,3 +4,4 @@
 3-islower: checks if a character is lowercase
 4-isalpha.c: checks if a character is an alphabet
 5-sign.c: checks if an integer is positive, negative or zero
+6-abs.c: returns the absolute value of an integer
