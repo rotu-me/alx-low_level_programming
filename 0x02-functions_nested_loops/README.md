@@ -6,3 +6,4 @@
 5-sign.c: checks if an integer is positive, negative or zero
 6-abs.c: returns the absolute value of an integer
 7-print_last_digit.c: Prints the last digit of a given number
+8-24_hours.c: Print every minute in a day
