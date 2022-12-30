@@ -7,3 +7,5 @@
 6-abs.c: returns the absolute value of an integer
 7-print_last_digit.c: Prints the last digit of a given number
 8-24_hours.c: Print every minute in a day
+9-times_table: prints the 9 times table
+10-add.c: adds two given numbers together
