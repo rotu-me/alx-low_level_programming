@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 /**
- * alloc-grind - create a matrix using malloc
+ * alloc-grid - create a matrix using malloc
  * @width: width of the matrix
  * @height: height of the matrix
  * Return: a pointer of pointer or null
  */
 
-int **alloc_grind(int width, int height)
+int **alloc_grid(int width, int height)
 {
 int a, b, c, d;
 int **p;
