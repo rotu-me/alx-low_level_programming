@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/**
+ * create_array - creates an array of char
+ *
+ * Return: returns null if it fails and if size = 0
+ */
+
+char *create_array(unsigned int_size, char c)
+{
+
+}
